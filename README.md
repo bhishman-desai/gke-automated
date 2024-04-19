@@ -16,7 +16,7 @@ This project is a journey through Google Cloud Platform (GCP) using Terraform to
 
 ## Getting Started
 
-To get started with this project, GCP, Terraform, and Kubernetes need to be installed. Follow the instructions in the [video](https://www.youtube.com/watch?v=T4SojEoboSw). to set up the environment.
+To get started with this project, GCP, Terraform, and Kubernetes need to be installed. Follow the instructions in the [video](https://www.youtube.com/watch?v=T4SojEoboSw) to set up the environment.
 
 ## Contributing
 
